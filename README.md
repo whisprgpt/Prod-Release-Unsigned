@@ -17,8 +17,6 @@ Welcome to the **official release repository** for **WhisprGPT**, your stealth c
 Whether you're in a meeting, an interview, or a monitored environment—WhisprGPT has your back.  
 No pop-ups. No distractions. Just silent performance.
 
----
-
 ## 🚀 About This Repository
 
 This is the **release repository** for WhisprGPT. Here you will find:
@@ -29,20 +27,17 @@ This is the **release repository** for WhisprGPT. Here you will find:
 
 For development-related changes or issue tracking, visit the [main development repo](#) (coming soon or link it if available).
 
----
 
 ## 📦 Installation
 
 Check the [Releases](https://github.com/whisprgpt/Prod-Release-Unsigned/releases) section for the latest version.  
 We support macOS and Windows. Follow the instructions provided with each platform-specific release.
 
----
 
 ## 📩 Support
 
 Having issues or want to request a feature? [Join Our Discord](https://discord.gg/skaWNVEhMd).
 
----
 
 ## ⚠️ Software License & Disclaimer
 
@@ -55,6 +50,5 @@ The developer shall **not be held responsible** for:
 
 By using this software, you agree to take full responsibility for how you use it.
 
----
 
 **WhisprGPT – Stay sharp. Stay silent.**
